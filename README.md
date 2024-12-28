@@ -1,7 +1,7 @@
 <h1 align="center">Haii!!, I'm Lynx <3</h1>
 <h3 align="center">A 14 Yo HackClub student <3 | ESP-ENG</h3>
 
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ2dmdscGw2c3owNTNpYmNrejh4d3g5czRlZXZtYmk5MWE4bXE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uozJs7kR6J98k/giphy.gif" />
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ2dmdscGw2c3owNTNpYmNrejh4d3g5czRlZXZtYmk5MWE4bXE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uozJs7kR6J98k/giphy.gif" align="center"/>
 
 - 🌱 I’m currently learning **Python, Java, HTML, CSS, C++, JS**
 
