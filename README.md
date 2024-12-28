@@ -1,7 +1,7 @@
 <h1 align="center">Haii!!, I'm Lynx <3</h1>
 <h3 align="center">A 14 Yo HackClub student <3 | ESP-ENG</h3>
 
-- 🌱 I’m currently learning **Pytohn, Java, HTML, CSS, C++, JS**
+- 🌱 I’m currently learning **Python, Java, HTML, CSS, C++, JS**
 
 - 👯 I’m looking to collaborate on **Indie Games and open source apps <3**
 
